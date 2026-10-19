@@ -9,7 +9,7 @@
 <h2 id="2-software-description-usage">2. Software Description &amp; Usage</h2>
 <p><strong>Shafiart</strong> is an offline-first browser extension and HTML5 canvas image editor designed to allow users to right-click web images for instant cropping, dynamic text annotation, high-resolution drawing, shape highlighting, rotation, and proportional resizing.</p>
 <ul>
-<li><strong>Shafiart Chrome Extension Store Link:</strong> <a href="#">Install Shafiart on Chrome Web Store</a> <em>(Replace <code>#</code> with your Web Store URL upon publishing)</em></li>
+<li><strong>Shafiart Chrome Extension Store Link:</strong> <a href="https://chromewebstore.google.com/detail/lpeencjmnmjgolibackgchpillceijle?name=shafiart">Install Shafiart on Chrome Web Store</a></li>
 <li><strong>Official Web Page:</strong> <a href="https://shafiakhan.com">shafiakhan.com/shafiart</a></li>
 </ul>
 <hr>
@@ -38,5 +38,5 @@
 <li><strong>Contact Email:</strong> <code>hello@shafiakhan.com</code></li>
 </ul>
 <hr>
-<p><em>&copy; 2026 Shafia Khan. All rights reserved. Built with passion for web creators everywhere.</em></p>
+<p><em>&copy; <?php echo date('Y'); ?> Shafia Khan. All rights reserved. Built with passion for web creators everywhere.</em></p>
 </body></html>
