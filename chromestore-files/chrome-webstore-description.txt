@@ -1,0 +1,26 @@
+Shafiart - Offline Canvas Web Image Editor
+
+Shafiart is a fast, light, and privacy-friendly web image editor built for quick canvas edits. Right-click any image on the web or click the extension icon to open the full editor window and start annotating, cropping, resizing, and tweaking images offline right inside your browser.
+
+========================================
+KEY FEATURES
+========================================
+
+• Instant Web & Local Image Editing: Right-click any image on any webpage to send it directly to Shafiart, or drag-and-drop local files directly onto the editor.
+• Full Window Canvas Workspace: Opens in a dedicated full-screen window for maximum canvas space and easy editing.
+• Visual Crop Tool: Precise rectangular cropping with visual boundary highlights and snap-back protection.
+• Aspect Ratio Resizing: Resize images proportionally with locked aspect ratios or enter custom width/height pixel dimensions.
+• Rotation & Angle Adjustments: Rotate 90 degrees clockwise/counter-clockwise or fine-tune custom angles with live canvas transformation.
+• Marker Highlighter: Soft-blend semi-transparent highlighter strokes across 8 customizable color palettes for quick web page markup.
+• Dynamic Shapes & Text: Draw straight lines, rectangles, rounded rectangles, circles, and place custom text overlay onto your image.
+• One-Click Copy to Clipboard: Copy your final edited image directly to your system clipboard to paste into Photoshop, Figma, Slack, or documents.
+• Offline & Private: Operates entirely client-side using the HTML5 Canvas API. Your images never get uploaded to any remote server or external service.
+
+========================================
+PRIVACY & PERMISSIONS
+========================================
+
+Shafiart operates offline in your browser. It does not collect, store, or transmit any personal data or image contents.
+
+Website: https://shafiakhan.com
+Copyright Policy: https://shafiakhan.com/shafiart/

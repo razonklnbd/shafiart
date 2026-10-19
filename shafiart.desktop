@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Shafiart
+Comment=Launch Shafiart as Standalone Application
+Keywords=image;highlight;crop;tool;
+Exec=google-chrome --app="chrome-extension://hdicoligifbehgehfehakncehmdhkjgo/editor.html?img=%U"
+Icon=chrome
+Icon=/home/shahadat/.local/share/icons/shafiart.png
+Terminal=false
+StartupNotify=true
+MimeType=image/jpeg;image/png;image/gif;image/webp;
+Categories=Network;WebBrowser;

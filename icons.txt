@@ -1,0 +1,6 @@
+<button class="btn btn-secondary icon-btn" id="undoBtn" title="Undo" disabled>
+          <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDd2Nmg2Ii8+PHBhdGggZD0iTTIxIDE3YTkgOSAwIDAgMC05LTkgOSA5IDAgMCAwLTYgMi4zTDMgMTMiLz48L3N2Zz4=" alt="Undo">
+        </button>
+        <button class="btn btn-secondary icon-btn" id="redoBtn" title="Redo" disabled>
+          <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMSA3djZoLTYiLz48cGF0aCBkPSJNMyAxN2E5IDkgMCAwIDEgOS05IDkgOSAwIDAgMSA2IDIuM2wzIDIuNyIvPjwvc3ZnPg==" alt="Redo">
+        </button>

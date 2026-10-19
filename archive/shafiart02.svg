@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="sGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Clean Rounded Base -->
+  <rect x="12" y="12" width="104" height="104" rx="26" ry="26" fill="url(#bgGrad)" stroke="#334155" stroke-width="4"/>
+
+  <!-- Bold, High-Contrast Monogram "S" -->
+  <path d="M 78 38 C 66 32 40 36 40 54 C 40 72 88 64 88 82 C 88 100 58 98 42 90" 
+        fill="none" stroke="url(#sGrad)" stroke-width="15" stroke-linecap="round"/>
+
+  <!-- Distinct Creative Accent Dot -->
+  <circle cx="88" cy="84" r="8" fill="#f59e0b"/>
+</svg>
