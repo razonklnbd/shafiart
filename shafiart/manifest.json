@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Shafiart",
-  "version": "1.1",
+  "version": "1.2",
   "description": "Right-click any web image or click the extension icon to crop, rotate, resize, highlight, draw shapes, edit offline with Shafiart.",
   "permissions": [
     "contextMenus",
